@@ -1,4 +1,4 @@
-[![Readium Logo](https://readium.org/assets/logos/readiumlogo_64.png)](https://readium.org){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+[![Readium Logo](https://readium.org/assets/logos/readiumlogo_64.png)](https://readium.org){:style="float: right;"}
 
 # planning
 
