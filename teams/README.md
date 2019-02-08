@@ -4,7 +4,7 @@ table, td, th {
         }
 </style>
 
-[![Readium Logo](https://readium.org/assets/logos/readiumlogo_64.png)](https://readium.org){:style="float: right;"}
+[![Readium Logo](https://readium.org/assets/logos/readiumlogo_64.png)](https://readium.org)
 
 # Readium Teams
 
