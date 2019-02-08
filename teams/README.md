@@ -25,4 +25,4 @@ A site for tracking and managing the makeup of the various Readium github teams.
 | LCP  | readium-lcp-client<br/>readium-lcp-server<br/>readium-lcp-js | Daniel Weck |
 | Architecture  | architecture | Hadrien Gardeur |
 | Readium CSS  | readium-css | Jiminy Panoz |
-| Infrastructure  | readium-test-files<br/>planning<br/>readium.github.io | Ric Wright |
+| Infrastructure  | readium-test-files<br/>readium-planning<br/>readium.github.io | Ric Wright |
