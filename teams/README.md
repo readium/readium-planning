@@ -12,7 +12,7 @@ A site for tracking and managing the makeup of the various Readium github teams.
 
 ### The Teams
 
-**Note:**  Ric, Laurent and Hadrien, as owners of the organization are on all the teams by default.  All teams can be thought of as "Readium * Contributors"  so the "Readium" and "Contributors" is omitted below although they will be part of the formal (github) team name.
+**Note:**  Ric, Laurent and Hadrien, as owners of the organization are on all the teams by default.  All teams can be thought of as "Readium * Committers"  so the "Readium" and "Committers" is omitted below although they will be part of the formal (github) team name.
 
 |  Team  | Repos | Members |
 |:-------------:|:-------------:|:------------:|
